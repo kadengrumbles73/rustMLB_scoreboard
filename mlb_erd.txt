@@ -1,0 +1,28 @@
+1. MlbSchedule (The Root Envelope)
+   └── Contains: Total game count (Integer)
+   └── Contains: A list of Calendar Dates (Array)
+
+    2. ScheduleDate (The Calendar Folder)
+       └── Contains: The date string (Text)
+       └── Contains: A list of Games played on this day (Array)
+
+        3. MlbGame (The Matchup Container)
+           └── Contains: Unique game ID number (Integer)
+           └── Contains: Status profile (Link to Struct 4)
+           └── Contains: Competitors layout (Link to Struct 5)
+
+            4. GameStatus (The State Tracker)
+               └── Contains: Status code text like "LIVE" or "FINAL" (Text)
+
+            5. Teams (The Opponent Splitter)
+               └── Contains: Away team profile (Link to Struct 6)
+               └── Contains: Home team profile (Link to Struct 6)
+
+                6. TeamDetail (The Stat Profile)
+                   └── Contains: Live score (Optional Integer)
+                   └── Contains: Team Info folder (Link to Struct 7)
+                   └── Contains: Total Season Wins (Integer)
+                   └── Contains: Total Season Losses (Integer)
+
+                    7. TeamInfo (The Identity Leaf)
+                       └── Contains: Official team name like "Mariners" (Text)

@@ -1,0 +1,12 @@
+C:\Users\kaden\OneDrive\BYUI CLASSES\SPRING 2026\CSE 310\Rust - Module 2\rustMLB_scoreboard\mlb_scoreboard\target\debug\deps\serde-dd716b6bd1df6f82.d: C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\kaden\OneDrive\BYUI\ CLASSES\SPRING\ 2026\CSE\ 310\Rust\ -\ Module\ 2\rustMLB_scoreboard\mlb_scoreboard\target\debug\build\serde-58ff6ab5bf28e202\out/private.rs
+
+C:\Users\kaden\OneDrive\BYUI CLASSES\SPRING 2026\CSE 310\Rust - Module 2\rustMLB_scoreboard\mlb_scoreboard\target\debug\deps\libserde-dd716b6bd1df6f82.rmeta: C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\kaden\OneDrive\BYUI\ CLASSES\SPRING\ 2026\CSE\ 310\Rust\ -\ Module\ 2\rustMLB_scoreboard\mlb_scoreboard\target\debug\build\serde-58ff6ab5bf28e202\out/private.rs
+
+C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\kaden\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\kaden\OneDrive\BYUI\ CLASSES\SPRING\ 2026\CSE\ 310\Rust\ -\ Module\ 2\rustMLB_scoreboard\mlb_scoreboard\target\debug\build\serde-58ff6ab5bf28e202\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\kaden\\OneDrive\\BYUI CLASSES\\SPRING 2026\\CSE 310\\Rust - Module 2\\rustMLB_scoreboard\\mlb_scoreboard\\target\\debug\\build\\serde-58ff6ab5bf28e202\\out
